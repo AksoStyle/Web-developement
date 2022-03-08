@@ -1,0 +1,4 @@
+a:6:{s:14:"felhasznalonev";s:4:"Akos";s:8:"password";s:11:"22Kiscica22";s:5:"email";s:16:"macska@gmail.com";s:11:"telefonszam";s:7:"0101010";s:12:"szuletesiido";s:10:"2000-01-01";s:3:"nev";s:4:"Akos";}
+a:6:{s:14:"felhasznalonev";s:5:"Gabor";s:8:"password";s:9:"22Kiscica";s:5:"email";s:15:"gabor@gmail.com";s:11:"telefonszam";s:11:"06704188895";s:12:"szuletesiido";s:10:"2000-01-01";s:3:"nev";s:5:"Gabor";}
+a:6:{s:14:"felhasznalonev";s:9:"AksoStyle";s:8:"password";s:9:"Kiscica22";s:5:"email";s:16:"macsga@gmail.com";s:11:"telefonszam";s:11:"06704188895";s:12:"szuletesiido";s:10:"2000-01-01";s:3:"nev";s:4:"Akos";}
+a:6:{s:14:"felhasznalonev";s:10:"AksoStylee";s:8:"password";s:12:"22kiscicaA22";s:5:"email";s:15:"Kukac@gmail.com";s:11:"telefonszam";s:10:"0670418895";s:12:"szuletesiido";s:10:"2000-01-01";s:3:"nev";s:4:"Akos";}
